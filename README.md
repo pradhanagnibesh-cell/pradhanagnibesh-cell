@@ -1,13 +1,6 @@
-Machine Learning Engineer who writes and make videos about machine learning, health and life.
-
+Machine Learning Engineer who writes and makes articles on the health and life.
 My writing is like the voice in your head found a typewriter.
-
-My videos are like a spartan warrior leanred to code.
-
-I'm currently working on Nutrify an app where you can take a photo of food and learn about it.
-
-I teach ML/AI at Zero to Mastery.
-
-I've authored four books.
-
-One novel:
+MY code are the spartan warrior learned code.
+I'm currently working on my project Galaxy an model that you can ask any type of query if you want and the best frontiers models are reply to you my model is an multimodal/agentic system.
+I'm posting all the latest and greatest new about ai check it out my X(Twitter) account
+am building lot of lost project about machine learning regression,classification,computer vision etc any many more am also build all of the LLMs model from scratch you can test it out using your data and hardware wise all the and also the architecture behind the GPT-astra that also in there.
