@@ -11,3 +11,5 @@ I'm posting all the latest and greatest new about ai check it out my X(Twitter) 
 
 
 am building lot of lost project about machine learning regression,classification,computer vision etc any many more am also build all of the LLMs model from scratch you can test it out using your data and hardware wise all the and also the architecture behind the GPT-astra that also in there.
+
+Coming to create some helpful stuff
