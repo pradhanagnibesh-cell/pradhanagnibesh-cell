@@ -23,8 +23,7 @@ we have write now working on the some of the LLMs architecture we see you here s
 
 I want to be the number one.
 
-
-we anyone work with me let me know
+you don't know me son
 
 
 
