@@ -22,9 +22,7 @@ we have write now working on the some of the LLMs architecture we see you here s
 
 
 I want to be the number one
-
-
-hey you don't know me son
+Crazy mere bhaiiiiiiii
 
 
 
