@@ -22,6 +22,6 @@ we have write now working on the some of the LLMs architecture we see you here s
 
 
 I want to be the number on
-crazy
+crazy mere bhai
 
 
