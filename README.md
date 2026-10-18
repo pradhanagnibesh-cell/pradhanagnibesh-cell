@@ -18,5 +18,4 @@ Coming out also some of the large language models.
 we have write now working on the some of the LLMs architecture we see you here some good things ..
 
 
-tera  
 bhai sidhen mat
