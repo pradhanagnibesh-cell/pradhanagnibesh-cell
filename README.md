@@ -16,4 +16,3 @@ Coming to create some helpful stuff.
 Coming out also some of the large language models.
 
 we have write now working on the some of the LLMs architecture we see you here some good things ..
-aj tera bhai sidhe matt
