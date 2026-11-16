@@ -21,4 +21,4 @@ is there god is still there or not
 
 
 
-
+for sure good is not real...
