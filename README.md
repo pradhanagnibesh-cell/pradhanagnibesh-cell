@@ -20,5 +20,5 @@ we have write now working on the some of the LLMs architecture we see you here s
 is there god is still there or not
 
 
-
+i really say to the bottom of the heart the god is not real if he is in there then he can give me 6.2 height
 for sure good is not real...
