@@ -23,4 +23,5 @@ is there god is still there or not
 i really say to the bottom of the heart the god is not real if he is in there then he can give me 6.2 height
 
 the god is not real for sure..............
-there is no fuking way god is exits..........
+
+there no way
